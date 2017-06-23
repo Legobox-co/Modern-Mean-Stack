@@ -1,0 +1,8 @@
+{
+   "PORT":3200,
+   "MONGO_URI":{
+     "DEVELOPMENT":"mongodb://youmean:youmean@ds127802.mlab.com:27802/youmean",
+     "PRODUCTION":"mongodb://youmean:youmean@ds127802.mlab.com:27802/youmean"
+   },
+   "ENV":"development"
+}
