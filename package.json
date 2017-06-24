@@ -74,6 +74,8 @@
     "es6-promise-loader": "^1.0.2",
     "es6-shim": "^0.35.3",
     "es7-reflect-metadata": "^1.6.0",
+    "eslint": "^4.1.0",
+    "eslint-config-airbnb": "^15.0.1",
     "exports-loader": "^0.6.4",
     "expose-loader": "^0.7.3",
     "file-loader": "^0.11.2",
