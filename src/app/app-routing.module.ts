@@ -5,6 +5,10 @@ const routes: Routes = [
   {
     path: '',
     children: []
+  },
+  {
+    path: '',
+    children: []
   }
 ];
 
