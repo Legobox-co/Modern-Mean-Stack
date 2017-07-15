@@ -1,6 +1,17 @@
-# Modern Mean Stack
+<img src="https://user-images.githubusercontent.com/11639772/28239962-adfca8f4-696f-11e7-9665-999f32488f1e.jpg">
+<h3 align="center">Modern Mean Stack</h3>
+<p align="center">A modern Structure for Building Apps on the MEAN stack</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0 and the express framework
+<br/><br/>
+
+## Introduction
+The Modern Mean Stack is a boilerplate project birthed of the idea that Creating apps off the MEAN stack should be done in a way as modern as possible.
+
+## Integrations and Tools
+- Angular Cli Project
+- Hot module reload via Hmr Module
+- Well-Structure express based backend architecture
+- Webpack 2( soon to be updated
 
 ## Installation
 To install the stack,
@@ -14,4 +25,28 @@ $ yarn
 ```bash
 $ gulp serve
 ```
+
+## Todos
+
+- [ ] Update Project with Webpack 3
+- [ ] Restructure Hot Module reload
+- [ ] Clean up on Passport Authentication
+- [ ] rebuild intro Angular Component.
+- [ ] write License md
+
+## Authors
+
+* **Chibuike Emmanuel Osita** - [Mozartted](https://github.com/Mozartted)
+
+<!-- See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. -->
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
+* etc
 
