@@ -28,10 +28,10 @@ $ gulp serve
 
 ## Todos
 
-- [ ] Update Project with Webpack 3
+- [x] Update Project with Webpack 3
 - [ ] Restructure Hot Module reload
-- [ ] Clean up on Passport Authentication
-- [ ] rebuild intro Angular Component.
+- [x] Clean up on Passport Authentication
+- [x] rebuild intro Angular Component.
 - [ ] write License md
 
 ## Authors
